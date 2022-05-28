@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.zip
+malimg_paper_dataset_imgs/
+
+.vscode/
+*.vscode
